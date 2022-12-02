@@ -7,9 +7,9 @@
   "text1": "这是你的生日!!! :D",
   "textInChatBox": "Happy birthday to you!! 祝你生日快乐",
   "sendButtonLabel": "发送",
-  "text2": "That's what I was going to do.",
-  "text3": "But then I stopped.",
-  "text4": "I realised, I wanted to do something",
+  "text2": "这是我们想做的补发.",
+  "text3": "但后来停止了.",
+  "text4": "我们意识到，我们想做点什么",
   "text4Adjective": "特别的",
   "text5Entry": "因为,",
   "text5Content": "你是 特别的",
@@ -21,4 +21,5 @@
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
+
 
