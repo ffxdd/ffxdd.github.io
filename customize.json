@@ -1,15 +1,15 @@
 {
   "greeting": "嘿",
   "name": "邓蕾蕾",
-  "greetingText": "我们真的喜欢你的名字 btw!",
+  "greetingText": "我们真的喜欢你 btw!",
   "wishText": " ;)",
   "imagePath": "img/lydia2.png",
   "text1": "这是你的生日!!! :D",
-  "textInChatBox": "Happy birthday to you!! 祝你生日快乐",
+  "textInChatBox": "祝你生日快乐",
   "sendButtonLabel": "发送",
-  "text2": "这是我们想做的补发.",
+  "text2": "这是我们想做的.",
   "text3": "但后来停止了.",
-  "text4": "我们意识到，我们想做点什么",
+  "text4": "我们意识到，我们想做点...",
   "text4Adjective": "特别的",
   "text5Entry": "因为,",
   "text5Content": "你是 特别的",
@@ -21,5 +21,4 @@
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
-
 
