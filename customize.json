@@ -1,15 +1,15 @@
 {
   "greeting": "嘿",
   "name": "邓蕾蕾",
-  "greetingText": "我们真的喜欢你 btw!",
+  "greetingText": "今晚你真美 btw!",
   "wishText": " ;)",
   "imagePath": "img/leilei.jpg",
   "text1": "这是你的生日!!! :D",
   "textInChatBox": "祝你生日快乐",
   "sendButtonLabel": "发送",
-  "text2": "这是我们想做的.",
+  "text2": "这是我想做的.",
   "text3": "但后来停止了.",
-  "text4": "我们意识到，我们想做点什么",
+  "text4": "我意识到，我想做点什么",
   "text4Adjective": "特别的",
   "text5Entry": "因为,",
   "text5Content": "你是 特别的",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "生日快乐!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
+  "outroText": "好了, 过来告诉我你很喜欢它吧！",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
